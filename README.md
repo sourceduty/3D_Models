@@ -20,5 +20,25 @@ In this collaboration, every collaborative 3D model is alternately distributed b
 
 The alternating distribution of collaborative 3D models between Sourceduty and the other collaborators provides a clear, structured system that can prevent or resolve financial disputes. By having an agreed-upon pattern for sharing the models, each party knows exactly what to expect and can plan their monetization strategies accordingly. This system minimizes the potential for disagreements over who owns what, as each party receives an equal share of the creative output, which they can then use for their own financial gain, thereby reducing conflicts over revenue sharing or intellectual property rights.
 
+
+#
+### Related Links
+
+[Concept Design](https://github.com/sourceduty/Concept_Design)
+<br>
+[Cura Infocard](https://github.com/sourceduty/Cura_Infocard)
+<br>
+[3D Model Imaging](https://github.com/sourceduty/3D_Model_Imaging)
+<br>
+[Cults: Sourceduty](https://cults3d.com/en/users/sourceduty)
+<br>
+[Automated 3D Modelling](https://github.com/sourceduty/Automated_3D_Modelling)
+<br>
+[3D Model Imaging](https://github.com/sourceduty/3D_Model_Imaging)
+<br>
+[Cults 3D](https://github.com/sourceduty/Cults_3D)
+<br>
+[3D Printing](https://github.com/sourceduty/3D_Printing)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
