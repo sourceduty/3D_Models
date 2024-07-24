@@ -28,8 +28,6 @@ The alternating distribution of collaborative 3D models between Sourceduty and t
 <br>
 [Cura Infocard](https://github.com/sourceduty/Cura_Infocard)
 <br>
-[3D Model Imaging](https://github.com/sourceduty/3D_Model_Imaging)
-<br>
 [Cults: Sourceduty](https://cults3d.com/en/users/sourceduty)
 <br>
 [Automated 3D Modelling](https://github.com/sourceduty/Automated_3D_Modelling)
