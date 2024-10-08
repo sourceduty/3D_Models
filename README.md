@@ -1,4 +1,4 @@
-![3D](https://github.com/sourceduty/3D_Collaboration/assets/123030236/d6af6a4f-431f-415c-adf8-9fa5de0fce61)
+![3D](https://github.com/user-attachments/assets/4282a981-dda3-4161-8788-2c75c3829ec5)
 
 > 3D model design and development.
 
